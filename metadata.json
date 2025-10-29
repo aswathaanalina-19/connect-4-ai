@@ -1,0 +1,5 @@
+
+{
+  "name": "Connect 4 AI Presentation",
+  "description": "A web-based presentation explaining the Minimax algorithm with Alpha-Beta Pruning used to create a strategic AI for the game of Connect 4."
+}
